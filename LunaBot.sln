@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaBot", "LunaBot\LunaBot.csproj", "{5FD6FE12-C32A-4A4C-B621-822BC2500418}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Members", "ftps://cfs.anovase.com/TeamPortal/Members", "{4911A431-26D7-4A4F-8127-8A3DE1D6C7A6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.2"
+		Debug.AspNetCompiler.VirtualPath = "/Members"
+		Debug.AspNetCompiler.PhysicalPath = "C:\Users\Star SB\AppData\Local\Temp\VWDWebCache\ftp_cfs.anovase.com_TeamPortal_Members_anovase_administrator\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Members\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Members"
+		Release.AspNetCompiler.PhysicalPath = "C:\Users\Star SB\AppData\Local\Temp\VWDWebCache\ftp_cfs.anovase.com_TeamPortal_Members_anovase_administrator\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Members\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD6FE12-C32A-4A4C-B621-822BC2500418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD6FE12-C32A-4A4C-B621-822BC2500418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD6FE12-C32A-4A4C-B621-822BC2500418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD6FE12-C32A-4A4C-B621-822BC2500418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4911A431-26D7-4A4F-8127-8A3DE1D6C7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4911A431-26D7-4A4F-8127-8A3DE1D6C7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4911A431-26D7-4A4F-8127-8A3DE1D6C7A6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4911A431-26D7-4A4F-8127-8A3DE1D6C7A6}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

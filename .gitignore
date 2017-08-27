@@ -154,3 +154,7 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+/packages/System.ValueTuple.4.3.1
+/packages/System.ValueTuple.4.3.1
+/LunaBot/authXFX
+/LunaBot/authXFX
